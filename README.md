@@ -1,1 +1,1 @@
-# Student-Grade-Calculator
+The StudentGradeCalculator Java program collects marks for a specified number of subjects, computes the total and average percentage, and assigns a grade based on the average. It then displays the total marks, average percentage, and corresponding grade. Grades range from 'A' for 90% and above to 'F' for below 60%, determined using if-else statements.
